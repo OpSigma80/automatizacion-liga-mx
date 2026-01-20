@@ -204,8 +204,8 @@ Este proyecto es de código abierto bajo la licencia MIT.
 ## 👨‍💻 Autor
 
 **Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
+- GitHub: [OpSigma80](https://github.com/OpSigma80)
+- LinkedIn: [Israel Sanchez Rovira](https://www.linkedin.com/in/israel-sanchez-rovira)
 
 ## 🙏 Agradecimientos
 
