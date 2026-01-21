@@ -1,3 +1,5 @@
+<img width="1432" height="741" alt="image" src="https://github.com/user-attachments/assets/ca9675f4-1d5c-4df8-8989-68187469b6df" />
+
 # 🏆 Sistema de Gestión Liga MX
 
 Sistema automatizado en Python para gestionar la tabla de posiciones de la Liga MX usando Excel.
